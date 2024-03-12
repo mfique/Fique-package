@@ -1,0 +1,11 @@
+{
+  "name": "fique",
+  "version": "1.0.0",
+  "description": "find perimeter",
+  "main": "index.js",
+  "scripts": {
+    "test": "script.js"
+  },
+  "author": "fique",
+  "license": "ISC"
+}
